@@ -1,3 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+* {
+	background: rgba(215,219,199,1.00);
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 20px;
+	color: rgba(67,86,14,1.00);
+}
+
+
