@@ -60,7 +60,7 @@ The function name is reportPosition.
 
 > var context = canvasRef.getContext('2d');
 
-This part sets up the img (map) that is to be displayed within canvas.
+This part sets up and draws the img (map) that is to be displayed within canvas.
 The map comes from google.
 
 >  	var img = new Image;
