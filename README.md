@@ -11,8 +11,8 @@ a google STATIC map that includes a marker at the center of the map. The map ima
 be loaded at zoom level 14. The map image should be 400px by 400px. 
 
 *To Use the App:* 
-1 Go to the website  [Geolocation: harv0116.github.io/geolocation](harv0116.github.io/geolocation "Geolocation")
-2 Allow the Application to access your location
+1. Go to the website  [Geolocation: harv0116.github.io/geolocation](harv0116.github.io/geolocation "Geolocation")
+2. Allow the Application to access your location
 
 *NOTE:* Sometimes the app needs more than one try to get your location depending on where 
 you are located.
@@ -55,7 +55,7 @@ The map comes from google.
 
 <blockquote>
   	var img = new Image;
-  	img.src = "https://maps.googleapis.com/maps/api/staticmap?center=" + 
+  	img.src = &quot;https://maps.googleapis.com/maps/api/staticmap?center=&quot; + 
   	position.coords.latitude+ "," + position.coords.longitude + 
   	"&markers=color:red%7Xlabel:X%7C" + position.coords.latitude + "," + 
   	position.coords.longitude + " &size=400x400&zoom=14&key=AIzaSyB0kyumQiko8guSTwwT7rUweHYqSxXV5Vw";
