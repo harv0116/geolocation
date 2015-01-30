@@ -1,8 +1,8 @@
 # Geolocation Assignment
 
-###Author: Paul Harvey
+###Author: Paul Harvey (harv0116)
 
-*Description:* Build a webpage that will check to see if the current browser supports 
+**Description:** Build a webpage that will check to see if the current browser supports 
 the navigator.geolocation object. If the browser does not support geolocation then have 
 the page display an appropriately styled feedback message to the user.
 
@@ -10,14 +10,14 @@ If geolocation is supported then try to fetch the user's current location and th
 a google STATIC map that includes a marker at the center of the map. The map image should 
 be loaded at zoom level 14. The map image should be 400px by 400px. 
 
-*To Use the App:* 
+**To Use the App:** 
 - Go to the website  [Geolocation: harv0116.github.io/geolocation](harv0116.github.io/geolocation "Geolocation")
 - Allow the Application to access your location
 
-*NOTE:* Sometimes the app needs more than one try to get your location depending on where 
+**NOTE:** Sometimes the app needs more than one try to get your location depending on where 
 you are located.
 
-*The important code behind the App:*
+**The important code behind the App:**
 
 The following function checks to see if it can find a GPS coordinate.  If YES then great,
 if NO then an error message is displayed.
