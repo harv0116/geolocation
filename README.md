@@ -11,7 +11,7 @@ a google STATIC map that includes a marker at the center of the map. The map ima
 be loaded at zoom level 14. The map image should be 400px by 400px. 
 
 **To Use the App:** 
-- Go to the website  [Geolocation: harv0116.github.io/geolocation](harv0116.github.io/geolocation "Geolocation")
+- Go to the website  [Geolocation: harv0116.github.io/geolocation](http://harv0116.github.io/geolocation "Geolocation")
 - Allow the Application to access your location
 
 **NOTE:** Sometimes the app needs more than one try to get your location depending on where 
